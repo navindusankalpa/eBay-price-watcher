@@ -1,4 +1,4 @@
-# eBayPriceWatcher
+# eBay-price-watcher
 
 **eBayPriceWatcher** is a Python script that monitors eBay product prices and sends notifications when prices change. Simply add product links and target prices, and the script will keep you updated on any fluctuations. Perfect for bargain hunters and collectors.
 
@@ -61,7 +61,7 @@
 You can edit app looping interval and product looping interval in <i>env.json</i> file. Default time is good to protect you from **getting banned**.
 
 
-
+Made with <3 by Navindu
    
 
 
