@@ -46,11 +46,13 @@
    Enter notification trigger price.
 
 11. **Get cookies**
+    
       Go to https://ebay.com and copy site cookies.
     
       ![Screenshot (205)](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/db2f59c2-68d9-493c-a849-5b4a16ca2d4d)
 
 13. **Add cookies to the app**
+    
        Enter the name of the first cookie.
     
        ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/4edd7f18-0a1b-4e4b-8408-4e8813d52e5b)
@@ -58,6 +60,7 @@
     Enter the value of the given cookie. And continue adding cookies.
 
 11. **Run app**
+    
        Choose 3 from the menu and run the app.
     
        ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/724a77a4-ce52-4aa8-81fe-c61ebefcea22)
