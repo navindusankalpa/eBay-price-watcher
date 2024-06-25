@@ -31,36 +31,30 @@
    ```bash
    python3 menu.py
 
-9. Add products:
+9. **Add products**
 
-![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/766a3dd6-4405-46a2-b5b3-79b306281639)
+      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/766a3dd6-4405-46a2-b5b3-79b306281639)
+      Select 1
 
-Select 1
+      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/8d636ba0-fff8-4640-b4cb-8b19381b7740)
+      Enter a product link (it must be a shortened link)
 
-![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/8d636ba0-fff8-4640-b4cb-8b19381b7740)
+      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/793b2997-cead-422c-b8ef-e4782a3c146f)
+      Enter notification trigger price.
 
-Enter a product link (it should be a shortened link)
+10. **Get cookies**
+      Go to https://ebay.com and copy site cookies.
+      ![Screenshot (205)](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/db2f59c2-68d9-493c-a849-5b4a16ca2d4d)
 
-![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/793b2997-cead-422c-b8ef-e4782a3c146f)
+11. **Add cookies to the app**
+       Enter the name of the first cookie.
+       ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/4edd7f18-0a1b-4e4b-8408-4e8813d52e5b)
 
-Enter notification trigger price.
+    Enter the value of the given cookie. And continue adding cookies.
 
-10. Get cookies:
-    Go to https://ebay.com and copy site cookies.
-
-    ![Screenshot (205)](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/db2f59c2-68d9-493c-a849-5b4a16ca2d4d)
-
-13. Add cookies to the app:
-   Enter the name of the first cookie.
-   ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/4edd7f18-0a1b-4e4b-8408-4e8813d52e5b)
-
-   Enter the value of the given cookie.
-   
-   And continue adding cookies.
-
-11. Run app
-    Choose 3 and run the app.
-    ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/724a77a4-ce52-4aa8-81fe-c61ebefcea22)
+11. **Run app**
+       Choose 3 from the menu and run the app.
+       ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/724a77a4-ce52-4aa8-81fe-c61ebefcea22)
 
 ## Additionally
 
