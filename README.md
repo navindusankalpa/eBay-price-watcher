@@ -33,9 +33,9 @@
 
 8. **Add products**
 
-      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/766a3dd6-4405-46a2-b5b3-79b306281639)<br>Select 1
+      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/766a3dd6-4405-46a2-b5b3-79b306281639)<br>Select 1<br>
 
-      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/8d636ba0-fff8-4640-b4cb-8b19381b7740)<br>Enter a product link (it must be a shortened link)
+      ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/8d636ba0-fff8-4640-b4cb-8b19381b7740)<br>Enter a product link (it must be a shortened link)<br>
 
       ![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/793b2997-cead-422c-b8ef-e4782a3c146f)<br>Enter notification trigger price.
 
