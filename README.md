@@ -49,7 +49,7 @@
 
 11. **Run app**
     
-       Choose 3 from the menu and run the app.<br>![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/724a77a4-ce52-4aa8-81fe-c61ebefcea22)
+       Choose 3 from the menu and run the app.<br>![image](https://github.com/navindusankalpa/eBay-price-watcher/assets/86160907/724a77a4-ce52-4aa8-81fe-c61ebefcea22)
 
 ## Important
 
@@ -57,11 +57,11 @@ You can edit app looping interval and product looping interval in <i>env.json</i
 
 ## Images
 
-![image](https://github.com/Navindu-Karunarathne/eBay-price-watcher/assets/86160907/55cc6899-fdd5-4e6a-8e1e-e668c30be352)<br><i>Sample Notification</i>
+![image](https://github.com/navindusankalpa/eBay-price-watcher/assets/86160907/55cc6899-fdd5-4e6a-8e1e-e668c30be352)<br><i>Sample Notification</i>
 
 
 
-Made with <3 by <a href=https://github.com/Navindu-Karunarathne>**Navindu Karunarathne**</a>
+Made with <3 by <a href=https://github.com/navindusankalpa>**Navindu Karunarathne**</a>
    
 
 
